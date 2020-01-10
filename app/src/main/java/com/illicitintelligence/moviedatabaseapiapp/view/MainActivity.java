@@ -9,7 +9,7 @@ import com.illicitintelligence.moviedatabaseapiapp.viewmodel.MovieViewModel;
 
 public class MainActivity extends AppCompatActivity {
 
-    SearchFragment searchFragment = new SearchFragment();
+    SearchFragmentK searchFragment = new SearchFragmentK();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
